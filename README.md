@@ -1,7 +1,7 @@
 # Racunalni-Vid-zadaće
 
 
-Lab 1: https://github.com/SUMMostar/lab1-mariolucic-lab
+Lab 1: https://github.com/pui-sum-rv/lab1-mariolucic-lab
 
 Lab 2: https://github.com/SUMMostar/lab2-mariolucic-lab
 
